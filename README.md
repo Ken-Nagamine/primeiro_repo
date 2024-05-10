@@ -30,4 +30,4 @@ _ITÁ**NEGRITO**LICO_
 ![Brasil](img/br.svg)
 
 
-![Logo PHP](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.php.net%2Fdownload-logos.php&psig=AOvVaw1beESZ8vegXFtDioG02W_8&ust=1715432249877000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDt6qCRg4YDFQAAAAAdAAAAABAE)
+![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)
