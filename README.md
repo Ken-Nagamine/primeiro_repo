@@ -50,3 +50,11 @@ function soma(a, b) {
 }
 
 ```
+
+### lista de tarefas
+
+- [x] tarefa 1
+- [x] tarefa 2
+- [ ] tarefa 3
+- [ ] tarefa 4
+- [x] tarefa 5
